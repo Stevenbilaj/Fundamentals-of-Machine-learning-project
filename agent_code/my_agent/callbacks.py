@@ -127,6 +127,9 @@ def game_state_inp_alt(game_state):
     B = game_state['self']
     B_0 = np.zeros((len(A), len(A)))
     B_0[B[0] - 1][B[1] - 1] = 1 + B[3]
+    C = game_state['others']
+    for i in range(0, len(C)):
+        B_0[C[i][0] - 1][C[i][1] - 1] = -1 - C[i][3]
     A = np.ravel(A)
     B_0 = np.ravel(B_0)
     A = np.append(A, B_0)
