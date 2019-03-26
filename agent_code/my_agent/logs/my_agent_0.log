@@ -1,0 +1,33 @@
+2019-03-18 22:45:36,146 [my_agent_0_wrapper] INFO: Import agent code from "agent_code/my_agent/callbacks.py"
+2019-03-18 22:45:36,161 [my_agent_0_wrapper] INFO: Initialize agent code
+2019-03-18 22:45:36,704 [my_agent_0_wrapper] INFO: STARTING ROUND #1
+2019-03-18 22:45:36,805 [my_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-18 22:45:36,805 [my_agent_0_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:36,806 [my_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-18 22:45:36,906 [my_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-18 22:45:36,906 [my_agent_0_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:36,907 [my_agent_0_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-18 22:45:37,009 [my_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-18 22:45:37,009 [my_agent_0_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,011 [my_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-18 22:45:37,110 [my_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-18 22:45:37,122 [my_agent_0_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,124 [my_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-18 22:45:37,215 [my_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-18 22:45:37,216 [my_agent_0_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,216 [my_agent_0_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-18 22:45:37,318 [my_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-18 22:45:37,318 [my_agent_0_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,319 [my_agent_0_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-18 22:45:37,329 [my_agent_0_wrapper] INFO: Received exit message for round
+2019-03-18 22:45:37,329 [my_agent_0_wrapper] INFO: Finalize agent's training
+2019-03-18 22:45:48,820 [my_agent_0_wrapper] ERROR: Error in callback function: 'numpy.float64' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "C:\Users\Steven\Dropbox\Ruprecht-Karls-Universität Heidelberg\Fundamentals of Machine Learning\Final_project\bomberman_rl-master\agents.py", line 130, in run
+    self.code.end_of_episode(self.fake_self)
+  File "C:\Users\Steven\Dropbox\Ruprecht-Karls-Universität Heidelberg\Fundamentals of Machine Learning\Final_project\bomberman_rl-master\agent_code\my_agent\callbacks.py", line 171, in end_of_episode
+    mini_batch = sample(self.memory, np.round(len(self.memory)/2))
+  File "C:\Users\Steven\AppData\Local\Programs\Python\Python36\lib\random.py", line 319, in sample
+    result = [None] * k
+TypeError: 'numpy.float64' object cannot be interpreted as an integer
+2019-03-18 22:45:48,821 [my_agent_0_wrapper] INFO: Round #1 finished

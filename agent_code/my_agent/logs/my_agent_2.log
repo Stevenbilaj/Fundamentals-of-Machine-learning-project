@@ -1,0 +1,357 @@
+2019-03-18 22:45:36,516 [my_agent_2_wrapper] INFO: Import agent code from "agent_code/my_agent/callbacks.py"
+2019-03-18 22:45:36,521 [my_agent_2_wrapper] INFO: Initialize agent code
+2019-03-18 22:45:36,704 [my_agent_2_wrapper] INFO: STARTING ROUND #1
+2019-03-18 22:45:36,805 [my_agent_2_wrapper] INFO: STARTING STEP 1
+2019-03-18 22:45:36,805 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:36,806 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:36,906 [my_agent_2_wrapper] INFO: STARTING STEP 2
+2019-03-18 22:45:36,906 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:36,907 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:37,009 [my_agent_2_wrapper] INFO: STARTING STEP 3
+2019-03-18 22:45:37,010 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,011 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:37,121 [my_agent_2_wrapper] INFO: STARTING STEP 4
+2019-03-18 22:45:37,133 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,140 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:37,216 [my_agent_2_wrapper] INFO: STARTING STEP 5
+2019-03-18 22:45:37,216 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,216 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:37,318 [my_agent_2_wrapper] INFO: STARTING STEP 6
+2019-03-18 22:45:37,319 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,320 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:37,420 [my_agent_2_wrapper] INFO: STARTING STEP 7
+2019-03-18 22:45:37,420 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,421 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:37,522 [my_agent_2_wrapper] INFO: STARTING STEP 8
+2019-03-18 22:45:37,522 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,523 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:37,625 [my_agent_2_wrapper] INFO: STARTING STEP 9
+2019-03-18 22:45:37,625 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,626 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:37,725 [my_agent_2_wrapper] INFO: STARTING STEP 10
+2019-03-18 22:45:37,726 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,727 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:37,826 [my_agent_2_wrapper] INFO: STARTING STEP 11
+2019-03-18 22:45:37,826 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,827 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:37,928 [my_agent_2_wrapper] INFO: STARTING STEP 12
+2019-03-18 22:45:37,928 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:37,929 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:38,030 [my_agent_2_wrapper] INFO: STARTING STEP 13
+2019-03-18 22:45:38,030 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,031 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:38,132 [my_agent_2_wrapper] INFO: STARTING STEP 14
+2019-03-18 22:45:38,132 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,133 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:38,234 [my_agent_2_wrapper] INFO: STARTING STEP 15
+2019-03-18 22:45:38,234 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,235 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:38,337 [my_agent_2_wrapper] INFO: STARTING STEP 16
+2019-03-18 22:45:38,337 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,338 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:38,443 [my_agent_2_wrapper] INFO: STARTING STEP 17
+2019-03-18 22:45:38,443 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,444 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:38,545 [my_agent_2_wrapper] INFO: STARTING STEP 18
+2019-03-18 22:45:38,545 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,546 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:38,647 [my_agent_2_wrapper] INFO: STARTING STEP 19
+2019-03-18 22:45:38,648 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,649 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:38,749 [my_agent_2_wrapper] INFO: STARTING STEP 20
+2019-03-18 22:45:38,749 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,750 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:38,850 [my_agent_2_wrapper] INFO: STARTING STEP 21
+2019-03-18 22:45:38,851 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,852 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:38,958 [my_agent_2_wrapper] INFO: STARTING STEP 22
+2019-03-18 22:45:38,959 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:38,967 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:39,060 [my_agent_2_wrapper] INFO: STARTING STEP 23
+2019-03-18 22:45:39,061 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,062 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:39,163 [my_agent_2_wrapper] INFO: STARTING STEP 24
+2019-03-18 22:45:39,164 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,165 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:39,265 [my_agent_2_wrapper] INFO: STARTING STEP 25
+2019-03-18 22:45:39,265 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,267 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:39,367 [my_agent_2_wrapper] INFO: STARTING STEP 26
+2019-03-18 22:45:39,367 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,368 [my_agent_2_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-18 22:45:39,467 [my_agent_2_wrapper] INFO: STARTING STEP 27
+2019-03-18 22:45:39,468 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,469 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:39,570 [my_agent_2_wrapper] INFO: STARTING STEP 28
+2019-03-18 22:45:39,570 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,572 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:39,671 [my_agent_2_wrapper] INFO: STARTING STEP 29
+2019-03-18 22:45:39,671 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,672 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:39,774 [my_agent_2_wrapper] INFO: STARTING STEP 30
+2019-03-18 22:45:39,774 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,775 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:39,875 [my_agent_2_wrapper] INFO: STARTING STEP 31
+2019-03-18 22:45:39,875 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,876 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:39,977 [my_agent_2_wrapper] INFO: STARTING STEP 32
+2019-03-18 22:45:39,977 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:39,979 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:40,080 [my_agent_2_wrapper] INFO: STARTING STEP 33
+2019-03-18 22:45:40,080 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,082 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:40,181 [my_agent_2_wrapper] INFO: STARTING STEP 34
+2019-03-18 22:45:40,182 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,183 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:40,284 [my_agent_2_wrapper] INFO: STARTING STEP 35
+2019-03-18 22:45:40,285 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,286 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:40,388 [my_agent_2_wrapper] INFO: STARTING STEP 36
+2019-03-18 22:45:40,388 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,389 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:40,489 [my_agent_2_wrapper] INFO: STARTING STEP 37
+2019-03-18 22:45:40,489 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,490 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:40,593 [my_agent_2_wrapper] INFO: STARTING STEP 38
+2019-03-18 22:45:40,593 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,595 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:40,695 [my_agent_2_wrapper] INFO: STARTING STEP 39
+2019-03-18 22:45:40,695 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,703 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:40,796 [my_agent_2_wrapper] INFO: STARTING STEP 40
+2019-03-18 22:45:40,797 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,804 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:40,904 [my_agent_2_wrapper] INFO: STARTING STEP 41
+2019-03-18 22:45:40,904 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:40,905 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:41,006 [my_agent_2_wrapper] INFO: STARTING STEP 42
+2019-03-18 22:45:41,006 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,007 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:41,107 [my_agent_2_wrapper] INFO: STARTING STEP 43
+2019-03-18 22:45:41,107 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,108 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:41,209 [my_agent_2_wrapper] INFO: STARTING STEP 44
+2019-03-18 22:45:41,209 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,210 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:41,311 [my_agent_2_wrapper] INFO: STARTING STEP 45
+2019-03-18 22:45:41,311 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,312 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:41,414 [my_agent_2_wrapper] INFO: STARTING STEP 46
+2019-03-18 22:45:41,414 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,422 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:41,522 [my_agent_2_wrapper] INFO: STARTING STEP 47
+2019-03-18 22:45:41,522 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,523 [my_agent_2_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-18 22:45:41,633 [my_agent_2_wrapper] INFO: STARTING STEP 48
+2019-03-18 22:45:41,633 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,634 [my_agent_2_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-18 22:45:41,732 [my_agent_2_wrapper] INFO: STARTING STEP 49
+2019-03-18 22:45:41,732 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,734 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:41,834 [my_agent_2_wrapper] INFO: STARTING STEP 50
+2019-03-18 22:45:41,834 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,835 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:41,936 [my_agent_2_wrapper] INFO: STARTING STEP 51
+2019-03-18 22:45:41,936 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:41,937 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:42,038 [my_agent_2_wrapper] INFO: STARTING STEP 52
+2019-03-18 22:45:42,038 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,038 [my_agent_2_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-18 22:45:42,141 [my_agent_2_wrapper] INFO: STARTING STEP 53
+2019-03-18 22:45:42,141 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,142 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:42,243 [my_agent_2_wrapper] INFO: STARTING STEP 54
+2019-03-18 22:45:42,243 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,244 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:42,343 [my_agent_2_wrapper] INFO: STARTING STEP 55
+2019-03-18 22:45:42,343 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,344 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:42,444 [my_agent_2_wrapper] INFO: STARTING STEP 56
+2019-03-18 22:45:42,444 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,445 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:42,546 [my_agent_2_wrapper] INFO: STARTING STEP 57
+2019-03-18 22:45:42,546 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,547 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:42,648 [my_agent_2_wrapper] INFO: STARTING STEP 58
+2019-03-18 22:45:42,648 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,649 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:42,752 [my_agent_2_wrapper] INFO: STARTING STEP 59
+2019-03-18 22:45:42,752 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,754 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:42,854 [my_agent_2_wrapper] INFO: STARTING STEP 60
+2019-03-18 22:45:42,854 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,856 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:42,956 [my_agent_2_wrapper] INFO: STARTING STEP 61
+2019-03-18 22:45:42,956 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:42,958 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,070 [my_agent_2_wrapper] INFO: STARTING STEP 62
+2019-03-18 22:45:43,075 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,081 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,166 [my_agent_2_wrapper] INFO: STARTING STEP 63
+2019-03-18 22:45:43,166 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,167 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,267 [my_agent_2_wrapper] INFO: STARTING STEP 64
+2019-03-18 22:45:43,267 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,268 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,371 [my_agent_2_wrapper] INFO: STARTING STEP 65
+2019-03-18 22:45:43,371 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,373 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,477 [my_agent_2_wrapper] INFO: STARTING STEP 66
+2019-03-18 22:45:43,477 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,478 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,580 [my_agent_2_wrapper] INFO: STARTING STEP 67
+2019-03-18 22:45:43,580 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,582 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,681 [my_agent_2_wrapper] INFO: STARTING STEP 68
+2019-03-18 22:45:43,682 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,683 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,783 [my_agent_2_wrapper] INFO: STARTING STEP 69
+2019-03-18 22:45:43,783 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,785 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,885 [my_agent_2_wrapper] INFO: STARTING STEP 70
+2019-03-18 22:45:43,885 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,886 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:43,987 [my_agent_2_wrapper] INFO: STARTING STEP 71
+2019-03-18 22:45:43,987 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:43,988 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:44,089 [my_agent_2_wrapper] INFO: STARTING STEP 72
+2019-03-18 22:45:44,089 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,090 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:44,192 [my_agent_2_wrapper] INFO: STARTING STEP 73
+2019-03-18 22:45:44,192 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,194 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:44,293 [my_agent_2_wrapper] INFO: STARTING STEP 74
+2019-03-18 22:45:44,294 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,295 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:44,395 [my_agent_2_wrapper] INFO: STARTING STEP 75
+2019-03-18 22:45:44,396 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,396 [my_agent_2_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-18 22:45:44,497 [my_agent_2_wrapper] INFO: STARTING STEP 76
+2019-03-18 22:45:44,497 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,499 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:44,605 [my_agent_2_wrapper] INFO: STARTING STEP 77
+2019-03-18 22:45:44,605 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,606 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:44,707 [my_agent_2_wrapper] INFO: STARTING STEP 78
+2019-03-18 22:45:44,707 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,708 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:44,809 [my_agent_2_wrapper] INFO: STARTING STEP 79
+2019-03-18 22:45:44,809 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,810 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:44,911 [my_agent_2_wrapper] INFO: STARTING STEP 80
+2019-03-18 22:45:44,911 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:44,912 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:45,013 [my_agent_2_wrapper] INFO: STARTING STEP 81
+2019-03-18 22:45:45,013 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,015 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:45,116 [my_agent_2_wrapper] INFO: STARTING STEP 82
+2019-03-18 22:45:45,117 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,118 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:45,218 [my_agent_2_wrapper] INFO: STARTING STEP 83
+2019-03-18 22:45:45,219 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,220 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:45,320 [my_agent_2_wrapper] INFO: STARTING STEP 84
+2019-03-18 22:45:45,321 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,322 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:45,423 [my_agent_2_wrapper] INFO: STARTING STEP 85
+2019-03-18 22:45:45,423 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,424 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:45,523 [my_agent_2_wrapper] INFO: STARTING STEP 86
+2019-03-18 22:45:45,523 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,524 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:45,625 [my_agent_2_wrapper] INFO: STARTING STEP 87
+2019-03-18 22:45:45,625 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,626 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:45,727 [my_agent_2_wrapper] INFO: STARTING STEP 88
+2019-03-18 22:45:45,727 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,728 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:45,837 [my_agent_2_wrapper] INFO: STARTING STEP 89
+2019-03-18 22:45:45,837 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,839 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:45,938 [my_agent_2_wrapper] INFO: STARTING STEP 90
+2019-03-18 22:45:45,939 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:45,940 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:46,040 [my_agent_2_wrapper] INFO: STARTING STEP 91
+2019-03-18 22:45:46,040 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,041 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:46,143 [my_agent_2_wrapper] INFO: STARTING STEP 92
+2019-03-18 22:45:46,143 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,144 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:46,244 [my_agent_2_wrapper] INFO: STARTING STEP 93
+2019-03-18 22:45:46,244 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,245 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:46,345 [my_agent_2_wrapper] INFO: STARTING STEP 94
+2019-03-18 22:45:46,345 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,346 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:46,447 [my_agent_2_wrapper] INFO: STARTING STEP 95
+2019-03-18 22:45:46,447 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,448 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:46,549 [my_agent_2_wrapper] INFO: STARTING STEP 96
+2019-03-18 22:45:46,549 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,550 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:46,658 [my_agent_2_wrapper] INFO: STARTING STEP 97
+2019-03-18 22:45:46,658 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,665 [my_agent_2_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-03-18 22:45:46,766 [my_agent_2_wrapper] INFO: STARTING STEP 98
+2019-03-18 22:45:46,766 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,771 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:46,867 [my_agent_2_wrapper] INFO: STARTING STEP 99
+2019-03-18 22:45:46,868 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,869 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:46,971 [my_agent_2_wrapper] INFO: STARTING STEP 100
+2019-03-18 22:45:46,971 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:46,973 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:47,073 [my_agent_2_wrapper] INFO: STARTING STEP 101
+2019-03-18 22:45:47,074 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,076 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:47,174 [my_agent_2_wrapper] INFO: STARTING STEP 102
+2019-03-18 22:45:47,174 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,176 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:47,275 [my_agent_2_wrapper] INFO: STARTING STEP 103
+2019-03-18 22:45:47,275 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,276 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:47,377 [my_agent_2_wrapper] INFO: STARTING STEP 104
+2019-03-18 22:45:47,377 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,378 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:47,479 [my_agent_2_wrapper] INFO: STARTING STEP 105
+2019-03-18 22:45:47,479 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,480 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:47,582 [my_agent_2_wrapper] INFO: STARTING STEP 106
+2019-03-18 22:45:47,582 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,589 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:47,691 [my_agent_2_wrapper] INFO: STARTING STEP 107
+2019-03-18 22:45:47,691 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,697 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:47,797 [my_agent_2_wrapper] INFO: STARTING STEP 108
+2019-03-18 22:45:47,797 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,798 [my_agent_2_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-18 22:45:47,898 [my_agent_2_wrapper] INFO: STARTING STEP 109
+2019-03-18 22:45:47,899 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:47,899 [my_agent_2_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-18 22:45:48,000 [my_agent_2_wrapper] INFO: STARTING STEP 110
+2019-03-18 22:45:48,000 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:48,000 [my_agent_2_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-18 22:45:48,101 [my_agent_2_wrapper] INFO: STARTING STEP 111
+2019-03-18 22:45:48,101 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:48,102 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:48,204 [my_agent_2_wrapper] INFO: STARTING STEP 112
+2019-03-18 22:45:48,204 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:48,204 [my_agent_2_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-18 22:45:48,307 [my_agent_2_wrapper] INFO: STARTING STEP 113
+2019-03-18 22:45:48,307 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:48,309 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:48,408 [my_agent_2_wrapper] INFO: STARTING STEP 114
+2019-03-18 22:45:48,409 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:48,410 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:48,511 [my_agent_2_wrapper] INFO: STARTING STEP 115
+2019-03-18 22:45:48,511 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:48,513 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:48,614 [my_agent_2_wrapper] INFO: STARTING STEP 116
+2019-03-18 22:45:48,614 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:48,616 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-18 22:45:48,715 [my_agent_2_wrapper] INFO: STARTING STEP 117
+2019-03-18 22:45:48,715 [my_agent_2_wrapper] INFO: Process intermediate rewards
+2019-03-18 22:45:48,716 [my_agent_2_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-18 22:45:48,718 [my_agent_2_wrapper] INFO: Received exit message for round
+2019-03-18 22:45:48,718 [my_agent_2_wrapper] INFO: Finalize agent's training
+2019-03-18 22:46:16,155 [my_agent_2_wrapper] INFO: Round #1 finished
